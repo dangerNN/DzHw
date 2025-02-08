@@ -54,5 +54,5 @@ int main() {
 	cout << "Студент зі зміненими даними:\n";
     student1.displayInfo();
 
-    return 0;
+    return 0; 
 }
